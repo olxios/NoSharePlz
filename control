@@ -1,0 +1,9 @@
+Package: com.olxios.noshareplz
+Name: NoSharePlz
+Depends: mobilesubstrate, firmware(>=10.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Removes iOS 10 share menu
+Maintainer: olxios
+Author: olxios
+Section: Tweaks
